@@ -48,7 +48,7 @@ I build across the full stack — Python microservices, Next.js marketplaces wit
 
 - 📊 Digitised and restructured **10,000+ legacy land records** into a queryable relational schema
 - ✅ Achieved **100% data integrity** across migrated records with validation scripts
-- ⚡ Improved data retrieval speed by an estimated **50%** across 3 district-level workflows
+- ⚡ Improved data retrieval speed by an estimated **50%** across 11 Block-level workflows in Banka District 
 
 ### Arduino & Robotics Instructor (Freelance)
 *Jul 2023 – Jun 2025 · 4 engagements across Bihar*
