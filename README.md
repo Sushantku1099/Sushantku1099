@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-B.Tech Computer Science & Engineering (AI) graduate from **Bihar Engineering University, Patna** with **CGPA 8.73**. Currently working as a **Software Developer Intern at Pashupatastra Solutions, New Delhi** through campus placement. 6 months of government internship experience at **Land Revenue Department, Bihar Government** where I digitised 10,000+ legacy records.
+B.Tech Computer Science & Engineering (AI) graduate from **Bihar Engineering University, Patna** with **CGPA 8.73**. Currently working as a **Software Developer Intern at Pashupatastra Solutions, New Delhi** through campus placement. 2 months of government internship experience at **Land Revenue Department, Bihar Government** where I digitised 10,000+ legacy records.
 
 I build across the full stack — Python microservices, Next.js marketplaces with Razorpay, TensorFlow deep learning models at 96%+ accuracy, and Arduino/ESP32 IoT systems. **Winner — Smart Bihar Hackathon 2023.** Trained 300+ students in Arduino & Robotics across 4 institutions. Oracle OCI AI Certified. Cisco CCNA certified.
 
