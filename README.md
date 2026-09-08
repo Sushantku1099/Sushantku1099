@@ -16,9 +16,103 @@
 
 ## 👨‍💻 About Me
 
-B.Tech Computer Science & Engineering (AI) graduate from **Bihar Engineering University, Patna** with **CGPA 8.73**. Currently working as a **Software Developer Intern at Pashupatastra Solutions, New Delhi** through campus placement. 2 months of government internship experience at **Land Revenue Department, Bihar Government** where I digitised 10,000+ legacy records.
+AI/ML Engineer and Software Developer focused on building production-ready intelligent applications using Machine Learning, Deep Learning, Computer Vision, Python, and modern software engineering technologies.
 
-I build across the full stack — Python microservices, Next.js marketplaces with Razorpay, TensorFlow deep learning models at 96%+ accuracy, and Arduino/ESP32 IoT systems. **Winner — Smart Bihar Hackathon 2023.** Trained 300+ students in Arduino & Robotics across 4 institutions. Oracle OCI AI Certified. Cisco CCNA certified.
+
+
+My primary interests are Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, and AI application development.
+
+
+
+I enjoy taking AI projects beyond model training — from data preprocessing and experimentation to backend APIs, user interfaces, deployment, and complete production applications.
+
+
+
+My AI/ML experience includes:
+
+• Machine Learning and Deep Learning
+
+• Computer Vision and Image Classification
+
+• Transfer Learning and Ensemble Learning
+
+• Explainable AI using Grad-CAM
+
+• TensorFlow and model development
+
+• Data preprocessing and augmentation
+
+• Model evaluation and optimization
+
+• Python-based AI application development
+
+• FastAPI model-serving APIs
+
+• AI model integration with web applications
+
+
+
+One of my key projects is SafeSkin AI, a deep-learning-based skin cancer detection platform built using the HAM10000 dataset. I worked with DenseNet201 and InceptionV3 transfer-learning models, ensemble learning, class-imbalance handling, image augmentation, Grad-CAM explainability, FastAPI, and a full web-based inference workflow.
+
+
+
+Alongside AI/ML, I have hands-on software engineering and full-stack development experience using:
+
+• Python
+
+• C/C++
+
+• JavaScript
+
+• TypeScript
+
+• React
+
+• Next.js
+
+• Node.js
+
+• FastAPI
+
+• PostgreSQL
+
+• MongoDB
+
+• REST APIs
+
+• Docker
+
+• Git/GitHub
+
+• Vercel
+
+
+
+I have built production-style applications involving authentication, role-based access control, APIs, databases, payment integrations, admin dashboards, cloud storage, automation, and deployment.
+
+
+
+I also have experience working with IoT and embedded systems, giving me additional understanding of how software interacts with real-world devices and hardware.
+
+
+
+My target opportunities:
+
+- AI/ML Engineer
+
+- Machine Learning Engineer
+
+- AI Engineer
+
+- Deep Learning / Computer Vision Engineer
+
+- Software Development Engineer
+
+- Full-Stack Software Engineer
+
+
+
+I am especially interested in teams building practical AI products where machine learning, backend engineering, APIs, and modern application development work together.
 
 ---
 
@@ -38,10 +132,31 @@ I build across the full stack — Python microservices, Next.js marketplaces wit
 ### Software Developer Intern — Pashupatastra Solutions, New Delhi
 *Jun 2026 – Present · Full-time (Campus Placement)*
 
-- 🚀 Reduced average API response time by **~30%** across 5+ production microservices by refactoring Python REST endpoints and consolidating redundant database queries
-- ⚡ Built CI/CD pipeline with GitHub Actions — cut release cycle time from **days to under 2 hours**
-- 🧪 Boosted backend test coverage from **0% to 60%+** across 3 core service modules using pytest
-- 🐳 Containerised services with Docker — **40% faster** third-party API integration delivery
+Working as a Software Development Engineer with responsibilities across software engineering, Python development, IoT systems, embedded integration, automation, and product development.
+
+
+
+Key responsibilities and work:
+
+• Develop software and tools using Python, C/C++, and modern development technologies.
+
+• Build Python-based automation, debugging, testing, and development utilities.
+
+• Design and integrate APIs and application components for hardware-connected products.
+
+• Work on communication between software applications and embedded devices.
+
+• Develop and debug STM32 and Arduino-based systems.
+
+• Work with UART, SPI, I²C, USB, and device communication protocols.
+
+• Analyze hardware interfaces, evaluation boards, sensors, and PCB-level communication.
+
+• Contribute across firmware, backend services, application software, testing, and deployment.
+
+• Research AI/ML integration opportunities for intelligent software and connected-device products.
+
+• Work across complete product-development lifecycle, from prototype and debugging to application integration.
 
 ### Data & Records Management Intern — Land Revenue Department, Bihar Government
 *Dec 2025 – Jun 2026 · Patna, Bihar*
@@ -189,7 +304,7 @@ if (device instanceof RmMiniDevice rm) {
 
 | Degree | Institution | Year | CGPA |
 |---|---|---|---|
-| **B.Tech — CSE (Artificial Intelligence)** | Purnea College of Engineering, Bihar Engineering University, Patna | 2023–2026 | **8.73** |
+| **B.Tech — CSE (Artificial Intelligence)** | Purnea College of Engineering, Bihar Engineering University, Patna | 2023–2026 | **8.81** |
 | **Diploma — Electronics Engineering** | Government Polytechnic Banka, SBTE Patna | 2020–2023 | **8.96** (2nd Rank) |
 | **10th — Matriculation** | High School Marhianath, Banka, BSEB Patna | 2020 | **84.4%** |
 
