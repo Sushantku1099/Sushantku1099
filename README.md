@@ -1,338 +1,261 @@
+<!-- GitHub Profile README | Personal account: github.com/Sushantku1099 -->
+<!-- This public portfolio intentionally does not reproduce employer-owned source code. -->
+
 <div align="center">
 
-# Sushant Sagar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=245&section=header&color=0:0B1220,45:0E7490,100:14B8A6&text=SUSHANT%20SAGAR&fontSize=49&fontColor=FFFFFF&fontAlignY=37&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20APPLIED%20AI%20%E2%80%A2%20MEDTECH%20SYSTEMS&descSize=17&descAlignY=60&animation=fadeIn" alt="Sushant Sagar — Software Engineering, Applied AI and MedTech" />
 
-**Software Developer · AI/ML Engineer · IoT & Embedded Systems · Open Source Author**
+<p><strong>BUILDING SOFTWARE FROM DEVICE TO DASHBOARD</strong></p>
+<p>
+<img alt="Backend engineering" src="https://img.shields.io/badge/ENGINEERING-Backend%20%26%20APIs-2563EB?style=flat-square" />
+<img alt="Applied AI" src="https://img.shields.io/badge/RESEARCH-Applied%20AI-0F766E?style=flat-square" />
+<img alt="Embedded systems" src="https://img.shields.io/badge/HARDWARE-Embedded%20Systems-7C3AED?style=flat-square" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sushant-sagar-723b65338/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sushantku1099)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushant1892004@gmail.com)
+<p>
+<a href="https://sushant.sushant1892004.workers.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-VISIT-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sushant-sagar-723b65338/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sushant1892004@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sushant-ji"><img alt="Professional GitHub reference" src="https://img.shields.io/badge/WORK_GITHUB-REFERENCE-30363D?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-📍 Pawai Dih, Banka, Bihar — 813101 &nbsp;|&nbsp; 📞 +91-6207504908
+<img alt="Based in New Delhi, India" src="https://img.shields.io/badge/%F0%9F%93%8D_New_Delhi-India-22C55E?style=flat-square" />
+<img alt="Open to opportunities across India" src="https://img.shields.io/badge/OPEN_TO-ENGINEERING_ROLES-2563EB?style=flat-square" />
+<img alt="Current focus: engineering" src="https://img.shields.io/badge/FOCUS-REAL_WORLD_SYSTEMS-9333EA?style=flat-square" />
+<img alt="GitHub profile visits" src="https://komarev.com/ghpvc/?username=Sushantku1099&color=0e7490&style=flat-square&label=Profile+views" />
+
+**Backend Engineer · Applied AI Engineer · Full-Stack Engineer · Embedded / MedTech Engineer**
+
+[Explore work ↓](#featured-work) · [Tech stack](#stack) · [Engineering approach](#architecture) · [Languages I use](#languages) · [Contact](#contact)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<a id="about"></a>
+## 👋 Hi, I'm Sushant
 
-AI/ML Engineer and Software Developer focused on building production-ready intelligent applications using Machine Learning, Deep Learning, Computer Vision, Python, and modern software engineering technologies.
+I am a **Software Developer at Pashupatastra Solutions, New Delhi** (2026–present), working across **backend platforms, AI-enabled research applications and connected medical-device engineering**.
 
+I enjoy the difficult part of product engineering: making multiple layers work together—**hardware interfaces → firmware → device communication → APIs → web/mobile workflows**. For the **Universal Potentiostat Reader (UPR)**, I have taken individual responsibility for its hardware and firmware engineering workstream, including strip and connector integration. Other projects are collaborative team efforts.
 
+<table>
+<tr>
+<td width="33%" valign="top">
 
-My primary interests are Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Generative AI, and AI application development.
+### 🧠 AI + Research
+Applied AI software, scientific workflows, speech recognition and model integrations.
 
+**Python · FastAPI · RDKit · Whisper**
 
+</td>
+<td width="33%" valign="top">
 
-I enjoy taking AI projects beyond model training — from data preprocessing and experimentation to backend APIs, user interfaces, deployment, and complete production applications.
+### ⚙️ Backend + Web
+REST APIs, relational data, authentication, admin systems and usable product interfaces.
 
+**TypeScript · PostgreSQL · Next.js**
 
+</td>
+<td width="33%" valign="top">
 
-My AI/ML experience includes:
+### 🔬 Devices + Firmware
+Electrochemical instruments, embedded interfaces, measurement protocols and Android connectivity.
 
-• Machine Learning and Deep Learning
+**STM32 · AD5941 · USB OTG · C**
 
-• Computer Vision and Image Classification
+</td>
+</tr>
+</table>
 
-• Transfer Learning and Ensemble Learning
-
-• Explainable AI using Grad-CAM
-
-• TensorFlow and model development
-
-• Data preprocessing and augmentation
-
-• Model evaluation and optimization
-
-• Python-based AI application development
-
-• FastAPI model-serving APIs
-
-• AI model integration with web applications
-
-
-
-One of my key projects is SafeSkin AI, a deep-learning-based skin cancer detection platform built using the HAM10000 dataset. I worked with DenseNet201 and InceptionV3 transfer-learning models, ensemble learning, class-imbalance handling, image augmentation, Grad-CAM explainability, FastAPI, and a full web-based inference workflow.
-
-
-
-Alongside AI/ML, I have hands-on software engineering and full-stack development experience using:
-
-• Python
-
-• C/C++
-
-• JavaScript
-
-• TypeScript
-
-• React
-
-• Next.js
-
-• Node.js
-
-• FastAPI
-
-• PostgreSQL
-
-• MongoDB
-
-• REST APIs
-
-• Docker
-
-• Git/GitHub
-
-• Vercel
-
-
-
-I have built production-style applications involving authentication, role-based access control, APIs, databases, payment integrations, admin dashboards, cloud storage, automation, and deployment.
-
-
-
-I also have experience working with IoT and embedded systems, giving me additional understanding of how software interacts with real-world devices and hardware.
-
-
-
-My target opportunities:
-
-- AI/ML Engineer
-
-- Machine Learning Engineer
-
-- AI Engineer
-
-- Deep Learning / Computer Vision Engineer
-
-- Software Development Engineer
-
-- Full-Stack Software Engineer
-
-
-
-I am especially interested in teams building practical AI products where machine learning, backend engineering, APIs, and modern application development work together.
+> **Engineering stage, stated accurately:** My recent work includes research systems, software baselines and late-stage hardware/firmware integration. Descriptions do **not** imply regulatory clearance, clinical diagnostic validation or that every system is commercially deployed.
 
 ---
 
-## 🏆 Achievements
+<a id="featured-work"></a>
+## 🚀 Featured engineering work
 
-| Award | Date | Details |
+<div align="center">
+
+<img src="https://img.shields.io/badge/2026-PROFESSIONAL_ENGINEERING_PORTFOLIO-0E7490?style=for-the-badge" alt="2026 professional engineering portfolio" />
+
+</div>
+
+### 🧪 01 — Universal Potentiostat Reader (UPR)
+
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![RTOS](https://img.shields.io/badge/RTOS-ThreadX-475569?style=flat-square)
+![AFE](https://img.shields.io/badge/AFE-AD5941-0E7490?style=flat-square)
+![USB](https://img.shields.io/badge/USB--C-OTG-2563EB?style=flat-square)
+![Stage](https://img.shields.io/badge/Stage-Engineering_Validation-F59E0B?style=flat-square)
+
+**Problem:** Build a phone-connected electrochemical reader with sequential multiple-working-electrode measurement capability.
+
+**My responsibility:** Individually handled the **hardware and firmware workstream**: component/interface selection, SPI and device bring-up, electrode multiplexing, strip/ZIF connector integration, USB communication and hardware/firmware debugging. The measurement workflows include **SWV and EIS** engineering work.
+
+**What this demonstrates:** Ownership at the intersection of electronics, embedded software, protocols, physical interfaces and validation—not just isolated application code.
+
+### 🩺 02 — HIV, Tuberculosis & Preeclampsia diagnostic R&D systems
+
+![Research](https://img.shields.io/badge/Domain-MedTech_R%26D-DC2626?style=flat-square)
+![PalmSens](https://img.shields.io/badge/Devices-PalmSens%20%2F%20Sensit_Smart-0F766E?style=flat-square)
+![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Electrochemistry](https://img.shields.io/badge/Methods-DPV_%7C_SWV_%7C_EIS-2563EB?style=flat-square)
+
+Worked on **research-stage diagnostic instrumentation and connected software** for HIV, TB and preeclampsia workflows, including electrode-strip and connector engineering, real-reader measurement acquisition, assay method parameters and mobile/application integration. Particular attention went to **instrument-originated data** and traceable measurement-to-result workflows.
+
+**Scope:** Cross-disciplinary engineering on research projects associated with South African diagnostic programs. Specific external institutional relationships or partnerships should only be represented publicly when authorized.
+
+### 🧬 03 — OncoGon / OSIEL scientific intelligence platform
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![RDKit](https://img.shields.io/badge/RDKit-Cheminformatics-334155?style=flat-square)
+![Research](https://img.shields.io/badge/Domain-Oncology_Research-9333EA?style=flat-square)
+
+Worked on an integrated **oncology research workbench** spanning asset exploration, evidence, computational chemistry, experimental planning, scientific review and AI-assisted research interfaces.
+
+**My work:** Multi-module Next.js/TypeScript interfaces, scientific service/API integration, domain workflows and debugging between frontend and Python/FastAPI services. The platform includes exploratory and reference-model flows; simulated scientific outputs are **not** presented as validated medical findings.
+
+**Professional reference:** [Work-related GitHub account](https://github.com/sushant-ji) (some repositories are private; no public source-code access is implied).
+
+---
+
+## 🧩 More engineering projects
+
+| Project | Technologies | Engineering contribution |
 |---|---|---|
-| 🥇 **Winner — Smart Bihar Hackathon 2023** | May 2023 | 1st Prize for IoT EV Wireless Charging Monitor (ESP32 + Arduino + Blynk) |
-| 🥈 **2nd Prize — World Youth Day 2023** | Jul 2023 | State-level innovation competition, Patna, Bihar |
-| 🎓 **Academic Topper — Diploma** | 2021–2023 | 2nd Rank all three years, Government Polytechnic Banka — CGPA 8.96 |
-| 💼 **Campus Placement** | 2026 | Selected as Software Developer Intern at Pashupatastra Solutions, New Delhi |
+| **UPR Administration & Factory Platform** | TypeScript, Fastify, Next.js, PostgreSQL, Docker | Device lifecycle, manufacturer administration, factory/API workflows, authentication and role-based permissions |
+| **Whisper–Omi ASR Baseline** | Python, Faster-Whisper, FastAPI, Docker | Configurable self-hosted transcription, authentication, data-handling controls and WER/CER evaluation utilities |
+| **AI-Assisted QA Automation** | Selenium, Robot Framework, Docker, Prometheus, Grafana | Browser test automation, configurable application test plans and metrics/reporting pipeline |
+| **Multi-Model AI Workspace** | Python, FastAPI, React, MCP, LLM integration | Modular backend/frontend foundation for agents and model-service integration |
+| **SafeSkinAI — academic computer vision** | TensorFlow, Keras, CNN, image processing | Earlier skin-lesion image classification work; [view public project](https://github.com/Sushantku1099/Skin-Cancer-Detection-HAM10000-Binary-CNN) |
+
+<details>
+<summary><b>🔐 Why aren't all recent projects public?</b></summary>
+
+<br/>
+
+Many recent systems were developed as part of professional work. This personal account showcases my **role, engineering approach, technology choices and permitted high-level project context**. Employer-owned code, confidential designs, credentials, private research data and proprietary assets are **not copied or published here**. The [work-related GitHub account](https://github.com/sushant-ji) is a reference only; recruiters cannot inspect private repositories without access.
+
+</details>
 
 ---
 
-## 💼 Work Experience
+<a id="stack"></a>
+## 🛠️ Technology universe
 
-### Software Developer Intern — Pashupatastra Solutions, New Delhi
-*Jun 2026 – Present · Full-time (Campus Placement)*
+<div align="center">
 
-Working as a Software Development Engineer with responsibilities across software engineering, Python development, IoT systems, embedded integration, automation, and product development.
+**Backend, data & software engineering**
 
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+<a href="https://fastify.dev/"><img alt="Fastify" src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" /></a>
 
+**Frontend & application development**
 
-Key responsibilities and work:
+<a href="https://nextjs.org/"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
+<a href="https://react.dev/"><img alt="React" src="https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href="https://developer.android.com/"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
 
-• Develop software and tools using Python, C/C++, and modern development technologies.
+**AI & scientific computing**
 
-• Build Python-based automation, debugging, testing, and development utilities.
+<a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+<a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
+<a href="https://scikit-learn.org/"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /></a>
+<a href="https://github.com/SYSTRAN/faster-whisper"><img alt="Faster Whisper" src="https://img.shields.io/badge/Faster--Whisper-ASR-2563EB?style=for-the-badge" /></a>
+<a href="https://www.rdkit.org/"><img alt="RDKit" src="https://img.shields.io/badge/RDKit-Cheminformatics-0F766E?style=for-the-badge" /></a>
 
-• Design and integrate APIs and application components for hardware-connected products.
+**Embedded systems, QA & operations**
 
-• Work on communication between software applications and embedded devices.
+<a href="https://www.st.com/"><img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" /></a>
+<a href="https://www.analog.com/"><img alt="Analog Devices" src="https://img.shields.io/badge/Analog_Devices-0A5BA8?style=for-the-badge" /></a>
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /></a>
+<a href="https://robotframework.org/"><img alt="Robot Framework" src="https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white" /></a>
+<a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /></a>
+<a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 
-• Develop and debug STM32 and Arduino-based systems.
-
-• Work with UART, SPI, I²C, USB, and device communication protocols.
-
-• Analyze hardware interfaces, evaluation boards, sensors, and PCB-level communication.
-
-• Contribute across firmware, backend services, application software, testing, and deployment.
-
-• Research AI/ML integration opportunities for intelligent software and connected-device products.
-
-• Work across complete product-development lifecycle, from prototype and debugging to application integration.
-
-### Data & Records Management Intern — Land Revenue Department, Bihar Government
-*Dec 2025 – Jun 2026 · Patna, Bihar*
-
-- 📊 Digitised and restructured **10,000+ legacy land records** into a queryable relational schema
-- ✅ Achieved **100% data integrity** across migrated records with validation scripts
-- ⚡ Improved data retrieval speed by an estimated **50%** across 11 Block-level workflows in Banka District 
-
-### Arduino & Robotics Instructor (Freelance)
-*Jul 2023 – Jun 2025 · 4 engagements across Bihar*
-
-- 🎯 **90%+ project completion rate** among 300+ students
-- 🏫 Taught at SVN Infra & Solar Services, TechGlaz Labs, NKB Infinity
-- 🔧 Designed structured lab modules in Arduino programming, sensor integration, IoT prototyping
+</div>
 
 ---
 
-## 🚀 Featured Open Source Project
+<a id="architecture"></a>
+## 🧭 How I think about systems
 
-### [java-broadlink](https://github.com/Sushantku1099/java-broadlink) — Java SDK for Broadlink IoT Devices
+**My favorite challenge is connecting real-world inputs to software that people can actually use.** This is a *conceptual map of my engineering scope*, not a claim that every module below is already deployed as one integrated product.
 
-[![Stars](https://img.shields.io/github/stars/Sushantku1099/java-broadlink?style=social)](https://github.com/Sushantku1099/java-broadlink)
-[![Tests](https://img.shields.io/badge/tests-53%2F53_passing-brightgreen)](https://github.com/Sushantku1099/java-broadlink)
-[![JDK](https://img.shields.io/badge/JDK-11%2B-blue)](https://github.com/Sushantku1099/java-broadlink)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/Sushantku1099/java-broadlink)
+<div align="center">
 
-A production-grade Java SDK for controlling **124 Broadlink IoT device types** across 19 categories — IR remotes, smart plugs, sensors, bulbs, thermostats, curtains, alarms, and hubs.
+| 01 · Physical input | 02 · Device intelligence | 03 · Applications | 04 · Cloud & research |
+|:---:|:---:|:---:|:---:|
+| **Sensors & electrodes** | **STM32 · AFE · Firmware** | **USB · Android · Web** | **APIs · Data · AI workflows** |
 
-```
-📱 Android · ☕ Spring Boot · 🖥️ Desktop Java · 🔷 Kotlin · ⚡ Zero Dependencies
-```
+**MEASURE → COMMUNICATE → VALIDATE → PRESENT**
 
-- `broadlink-core` — **ZERO external dependencies**, runs on JDK 11+
-- SPI pluggable architecture (Logger, JsonSerializer, NetworkProvider)
-- Reverse-engineered proprietary UDP protocol with AES-128-CBC encryption
-- 53 unit tests validating exact packet byte structures against reference implementation
+</div>
 
-```java
-BroadlinkClient client = new BroadlinkClient();
-List<BroadlinkDevice> devices = client.discover().get();
-devices.get(0).authenticate().get();
-
-if (device instanceof RmMiniDevice rm) {
-    rm.enterLearning().get();
-    byte[] irCode = rm.checkData().get();
-    rm.sendData(irCode).get();
-}
-```
+I care about **raw-data traceability, reliable APIs, robust error handling, explicit validation boundaries and practical debugging** across the whole system.
 
 ---
 
-## 📂 Projects
+<a id="languages"></a>
+## 💻 Languages I use most
 
-### 🤖 AI / Machine Learning
+<div align="center">
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[SafeSkinAI 2.0](https://github.com/Sushantku1099)** | Python, TensorFlow, Keras, DenseNet201, Inception V3 | Ensemble CNN classifying **7 skin disease categories** from dermoscopic images. Transfer learning + augmentation pipeline for clinical screening. |
-| **SafeSkinAI 1.0** | Python, CNN, TensorFlow, Keras | Binary benign/malignant skin lesion classification. Established preprocessing pipeline for SafeSkinAI 2.0. |
-| **[Breast Cancer Detection](https://github.com/Sushantku1099/Breast-Cancer-Detection)** | Python, Scikit-learn, Logistic Regression | **96.4% accuracy** classifier with ROC-AUC validation + interactive web interface for real-time tumour classification. |
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-PRIMARY-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-PRIMARY-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-### 🌐 Full Stack Web
+<img alt="Embedded C" src="https://img.shields.io/badge/Embedded%20C-FIRMWARE-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img alt="SQL" src="https://img.shields.io/badge/SQL-DATABASES-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-WEB-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ANDROID-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **Developer Portfolio & Marketplace** | Next.js 14, TypeScript, PostgreSQL, Prisma ORM, NextAuth, Razorpay, Cloudinary | Full-stack marketplace with RBAC, payment gateway, **50+ routes**, **13+ relational models**, PWA, SEO — production deployed. |
-| **SVN Student Registration & Payment Portal** | Next.js, React, Node.js, MongoDB Atlas, JWT, Razorpay, Nodemailer | Production platform for SVN Infra & Solar. Admin dashboard with analytics + Excel export. Certificate validation system. JWT + bcrypt + HTTP-only cookie auth. |
+</div>
 
-### 🔌 IoT & Embedded Systems
+| Language focus | Where I use it |
+|---|---|
+| 🔷 **TypeScript — primary** | Next.js product interfaces, Fastify APIs, device administration |
+| 🐍 **Python — primary** | FastAPI services, scientific computing, AI/ASR workflows, automation |
+| ⚙️ **C / Embedded C — specialized** | STM32 firmware, device communication, potentiostat integration |
+| 🗃️ **SQL — frequent** | PostgreSQL schemas, queries, APIs and data workflows |
+| 🟨 **JavaScript — frequent** | React/Node.js applications, web tooling, integration |
+| 🟪 **Kotlin — project-specific** | Android device transport and platform integration |
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[Smart EV Wireless Charging Monitor](https://github.com/Sushantku1099/Smart-Monitoring-WirelessChargingEVs)** | ESP32, Arduino UNO, Embedded C, Blynk | 🥇 **Winner — Smart Bihar Hackathon 2023**. Real-time energy tracking, grid integration, Blynk remote control. |
-| **[Smart Home Automation](https://github.com/Sushantku1099/Smart-Home-Google-Alexa-NodeMCUArduino-SinricPro)** | Arduino, NodeMCU, Embedded C, SinricPro, Google Assistant API, Alexa | Multi-mode control (voice, IR, manual) — works online and offline. No costly smart hubs needed. |
-
----
-
-## 🛠️ Technical Skills
-
-### Languages & Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-555555?style=for-the-badge&logo=c&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### AI & Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Backend & DevOps
-
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### IoT & Embedded
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Blynk](https://img.shields.io/badge/Blynk-2AC08F?style=for-the-badge&logo=iot&logoColor=white)
-
-### Cloud & Tools
-
-![OCI](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<sub>These are qualitative language priorities drawn from my recent engineering projects, not percentages of lines of code, private repository statistics or automated commit counts. Private employer repositories are not exposed in this public README.</sub>
 
 ---
 
-## 📜 Certifications
+## 🎓 Education & recognition
 
-| Certification | Issuer | Date |
-|---|---|---|
-| Oracle Cloud Infrastructure 2025 AI Foundations Associate | Oracle | Aug 2025 |
-| CCNA: Enterprise Networking, Security & Automation | Cisco Networking Academy | May 2025 |
-| CCNA: Switching, Routing & Wireless Essentials | Cisco Networking Academy | May 2025 |
-| CCNA: Introduction to Networks | Cisco Networking Academy | May 2025 |
-| Cybersecurity Essentials | Cisco Networking Academy | Jul 2023 |
-| Python Essentials 1 & 2 | Cisco Networking Academy | May 2025 |
-| Machine Learning | Internshala / Scholiverse Educare | Jan 2024 |
-| Python for ML, Data Science & Web Dev | iHUB DivyaSampark, IIT Roorkee | Dec 2023 |
-| Google IT Support Professional | Coursera | Oct 2022 |
-| Full Stack Web Development | TechGlaz Labs | Jul 2025 |
-| Electric Vehicles Part-1 | NPTEL | Jan 2023 |
-| Arduino Certification | Spoken Tutorial, IIT Bombay | Sep 2022 |
-| Salesforce Developer Virtual Internship | Salesforce | Dec 2023 |
+| | |
+|---|---|
+| 🎓 **B.Tech — CSE (Artificial Intelligence)** | Bihar Engineering University · 2026 |
+| ⚡ **Diploma — Electronics Engineering** | SBTE Bihar · 2023 |
+| 🥇 **Smart Bihar Hackathon** | Winner · 2023 |
+| 💡 **Earlier experience** | Technical education, robotics and IoT mentoring |
 
 ---
 
-## 🎓 Education
+<a id="contact"></a>
+<div align="center">
 
-| Degree | Institution | Year | CGPA |
-|---|---|---|---|
-| **B.Tech — CSE (Artificial Intelligence)** | Purnea College of Engineering, Bihar Engineering University, Patna | 2023–2026 | **8.81** |
-| **Diploma — Electronics Engineering** | Government Polytechnic Banka, SBTE Patna | 2020–2023 | **8.96** (2nd Rank) |
-| **10th — Matriculation** | High School Marhianath, Banka, BSEB Patna | 2020 | **84.4%** |
+## 🤝 Let's build something useful
 
----
+**Interested in product engineering roles where AI, software and real-world systems intersect.**
 
-## 📊 GitHub Stats
+<a href="mailto:sushant1892004@gmail.com"><img alt="Hire or contact me" src="https://img.shields.io/badge/LET'S_TALK-EMAIL_ME-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sushant-sagar-723b65338/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/CONNECT-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://sushant.sushant1892004.workers.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/EXPLORE-MY_PORTFOLIO-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sushantku1099&show_icons=true&theme=dark&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantku1099&layout=compact&theme=dark" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0B1220,45:0E7490,100:14B8A6" alt="Decorative footer" />
 
----
-
-## 🔗 Connect With Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/sushant-sagar-723b65338](https://www.linkedin.com/in/sushant-sagar-723b65338/)
-- 💻 **GitHub:** [github.com/Sushantku1099](https://github.com/Sushantku1099)
-- 📧 **Email:** sushant1892004@gmail.com
-- 📞 **Phone:** +91-6207504908
-- 📍 **Location:** Pawai Dih, Banka, Bihar — 813101
-
----
-
-<p align="center">
-  <i>Open to opportunities in Software Development, AI/ML Engineering, IoT & Embedded Systems, and Full Stack Development.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sushantku1099&color=blue&style=flat-square" alt="Profile views" />
-</p>
+</div>
